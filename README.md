@@ -1,8 +1,22 @@
 ### 👋 Hi, I’m @aryan-tayal
 
-I am a **high school** student in **India** and have been coding since December 2018. 
 ---
-I mainly practice and work on `Web Development` and know `HTML`, `CSS`, `JS`, `Node`, `Express` and `React`. I also work on `Arduino` and `IoT` porjects.
+I love `Web Development` and am constantly trying to build new things and learn new technology.
 
-🌱 I’m currently learning `Python` from **ReplIt's 100 Days of Code**.
+Also interested in `IoT` based electroincs projects.
 
+---
+Technologies I Know : 
++ HTML5 
++ CSS3
++ JavaScript 
++ ReactJS
++ NodeJS
++ MongoDB
++ GSAP
++ Bootstrap
+
+---
+Social Links : 
++ Very Active on [CodePen](https://codepen.io/aryancodeworm)
++ [ReplIt](https://replit.com/@aryan-tayal)
