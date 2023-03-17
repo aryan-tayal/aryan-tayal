@@ -18,6 +18,7 @@ Technologies I Know 😁 :
 Currently Learning 🌱 : 
 + ThreeJS
 + Python
++ TypeScript
 
 ---
 Social Links 🤖 : 
