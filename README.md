@@ -4,6 +4,7 @@
 I love `Web Development` and am constantly trying to build new things and learn new technology.
 
 ---
+##### Github Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-tayal&show_icons=true&theme=radical)
 ---
 
