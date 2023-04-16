@@ -4,6 +4,10 @@
 I love `Web Development` and am constantly trying to build new things and learn new technology.
 
 ---
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-tayal&show_icons=true&theme=radical)
+---
+
+---
 Technologies I Know 😁 : 
 + HTML5 
 + CSS3
