@@ -27,7 +27,7 @@ I love `Web Development` and am constantly trying to build new things and learn 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 ---
