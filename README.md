@@ -21,7 +21,7 @@ I love `Web Development` and am constantly trying to build new things and learn 
 ![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=CSS3&logoColor=67b3eb)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=b998eb)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=sass)
-![MaterialUI](https://img.shields.io/badge/Material--UI-000?style=for-the-badge&logo=material-ui)
+![MaterialUI](https://img.shields.io/badge/Material-UI-000?style=for-the-badge&logo=material-ui)
 
 
 
