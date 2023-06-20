@@ -20,6 +20,7 @@ I love `Web Development` and am constantly trying to build new things and learn 
 ![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=CSS3&logoColor=67b3eb)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=b998eb)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-000)
 
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
