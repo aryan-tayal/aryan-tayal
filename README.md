@@ -35,6 +35,8 @@ I love `Web Development` and am constantly trying to build new things and learn 
 
 ---
 #### Currently Learning 🌱 : 
+![Postgres](https://img.shields.io/badge/-Postgresql-000?style=for-the-badge&logo=postgresql)
+![NextJS](https://img.shields.io/badge/-Next.JS-000?style=for-the-badge&logo=next.js)
 ![Three.JS](https://img.shields.io/badge/-Three.JS-000?style=for-the-badge&logo=three.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
