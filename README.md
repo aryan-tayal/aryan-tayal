@@ -30,6 +30,9 @@ I love `Web Development` and am constantly trying to build new things and learn 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 
 
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+
+
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
@@ -39,7 +42,6 @@ I love `Web Development` and am constantly trying to build new things and learn 
 ![NextJS](https://img.shields.io/badge/-Next.JS-000?style=for-the-badge&logo=next.js)
 ![Three.JS](https://img.shields.io/badge/-Three.JS-000?style=for-the-badge&logo=three.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 
 ---
 #### Social Links 🤖 : 
