@@ -18,10 +18,10 @@ I love `Web Development` and am constantly trying to build new things and learn 
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
 
 ![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=CSS3&logoColor=67b3eb)
+![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css&logoColor=67b3eb)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=b998eb)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=sass)
-![MaterialUI](https://img.shields.io/badge/Material--UI-000?style=for-the-badge&logo=material-ui)
+![MaterialUI](https://img.shields.io/badge/Material--UI-000?style=for-the-badge&logo=mui)
 
 
 
@@ -38,6 +38,9 @@ I love `Web Development` and am constantly trying to build new things and learn 
 
 ---
 #### Currently Learning 🌱 : 
+
+![Bash](https://img.shields.io/badge/-Bash-000?style=for-the-badge&logo=gnubash)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
 ![Postgres](https://img.shields.io/badge/-Postgresql-000?style=for-the-badge&logo=postgresql)
 ![NextJS](https://img.shields.io/badge/-Next.JS-000?style=for-the-badge&logo=next.js)
 ![Three.JS](https://img.shields.io/badge/-Three.JS-000?style=for-the-badge&logo=three.js)
